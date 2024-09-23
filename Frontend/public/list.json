@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Read the best folk tales of ever.",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    },
+    {
+        "id":2,
+        "name":"Sports Book",
+        "title":"Get the best sports update.",
+        "price":50,
+        "category":"sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    },
+    {
+        "id":3,
+        "name":"Fictional Book",
+        "title":"Read the best of the fictional tales.",
+        "price":100,
+        "category":"Fictional",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    },
+    {
+        "id":4,
+        "name":"Non-Fictional Book",
+        "title":"Read the best inspiring books.",
+        "price":20,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    },
+    {
+        "id":5,
+        "name":"Children Book",
+        "title":"Read the best children stories.",
+        "price":70,
+        "category":"entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    },
+    {
+        "id":6,
+        "name":"Recipe Book",
+        "title":"Read the best recipes ever.",
+        "price":40,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    },
+    {
+        "id":7,
+        "name":"Learning Book",
+        "title":"Learn from the books of best mentors.",
+        "price":400,
+        "category":"Learning",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    },
+    {
+        "id":8,
+        "name":"Drawing Book",
+        "title":"Get to know the real world of art.",
+        "price":10,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725988966~exp=1725992566~hmac=64ad875c4fc1e46f97a15998600bc709faae6ead810f0b4cc4b387e0ce2d070d&w=740"
+    }
+]
